@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chloe Peng</h1>
 <h3 align="center">A passionate frontend developer from Atlanta! :)</h3>
+<br>
 
 - 🔭 I’m currently working on [Mush|Home - A platform helps the buyers directly connect with the sellers](https://github.com/ChloeCCPeng/Real-Estate-4)
 
